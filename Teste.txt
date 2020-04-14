@@ -1,1 +1,4 @@
-aaaaaa
+npm cache clean --force
+
+cd componentes
+npm run serve
